@@ -1,2 +1,2 @@
-# estudos_ia
-Repositório destinado ao armazenamento de estudos em Inteligência Artificial. Aplicação prática de abordagens de Aprendizado de Máquina, Aprendizado Profundo, Redes Neurais...
+# Aprendizado
+Com o tempo irei atualizando este repositório com os estudos e abordagens práticas desenvolvidas no processo de aprendizagem.
